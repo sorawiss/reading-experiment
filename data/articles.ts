@@ -6,11 +6,11 @@ export interface Article {
 
 export const articles: Article[] = [
     {
-        slug: 'future-of-ai',
+        slug: 'horror',
         title: 'หนังสยองขวัญช่วยให้เราคลายกังวลได้อย่างไร',
     },
     {
-        slug: 'mindfulness-meditation',
+        slug: 'smell',
         title: 'อาหารชนิดใดบ้างที่ทำให้คุณมีกลิ่นกายน่าดึงดูดยิ่งขึ้น',
     }
 ];
